@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MinerzArachnoid/MinerzArachnoid/blob/output/snake.svg" alt="Snake animation" />
+![Snake Gif](https://github.com/MinerzArachnoid/MinerzArachnoid/blob/output/snake.gif)
 
 ###
 
