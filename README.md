@@ -1,6 +1,6 @@
 <h1 align="center">✧《 WELCOME TO MY PROFILE 》✧</h1>
 
-![Snake Gif](https://github.com/MNRosyad/MNRosyad/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Gif](https://github.com/MinerzArachnoid/MinerzArachnoid/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">🔥 ┆  I'm new with GitHub ( just kidding, but I don't really use GitHub ) ┆ 🔥</p>
 
